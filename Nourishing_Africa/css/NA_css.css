@@ -1,0 +1,5 @@
+*{margin:0;padding:0;}
+*{box-sizing:border-box;}
+body{width:100%;}
+.top-slide{width:100%;height:500px; border:2px solid black;
+background-image:url(../img/food3.jpg);background-size:100% 500px;color:#fff;}
